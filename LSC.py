@@ -173,7 +173,7 @@ for var, value in symbol_table.items():
     print(f"{var} = {value}")
 
 # ---------------------------------
-# Geração de Código em C
+# Geração de Código 
 # ---------------------------------
 
 c_code_output = "#include <stdio.h>\n\nint main() {\n"
